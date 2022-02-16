@@ -9,7 +9,7 @@
  *  	* Max heap
  *  	* Quicksort
  *  
- *  Experiments with resetting sorting mid-sort
+ *  TODO reset sorting mid-sort?
  *  
  * @author Matthew
  * 
